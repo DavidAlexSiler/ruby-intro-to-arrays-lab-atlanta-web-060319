@@ -1,1 +1,1 @@
-@my_
+@my_new_array = []
